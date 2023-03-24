@@ -1,8 +1,7 @@
-<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Abdullah Tariq</h1>
-<h3 align="center">A passionate Web Developer</h3>
+<img src="https://github.com/atariq12382/atariq12382/blob/main/HEader.png">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=atariq12382&label=Profile%20views&color=0e75b6&style=flat" alt="atariq12382" /> </p>
-<hr>
+
+<p> <p align="left">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></p> <img align="right" src="https://komarev.com/ghpvc/?username=atariq12382&label=Profile%20views&color=0e75b6&style=flat" alt="atariq12382" /> </p>
 
 
 - 🌱 I’m currently learning **Java**
@@ -44,3 +43,5 @@ Watch my contributions get eaten by snake 🐍
 <!-- Contribution Snake -->
 
 ![snake gif](https://github.com/amajaying/amajaying/blob/output/github-contribution-grid-snake.svg)
+
+<img src="https://github.com/atariq12382/atariq12382/blob/main/footer.png">
