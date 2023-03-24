@@ -39,7 +39,7 @@
 </p>
 <img alt="Trophy" align="center" height="250px" src="https://github-profile-trophy.vercel.app/?username=atariq12382&theme=dracula"/>
 <br>
-## Watch my contributions get eaten by snake 🐍
+Watch my contributions get eaten by snake 🐍
 
 <!-- Contribution Snake -->
 
