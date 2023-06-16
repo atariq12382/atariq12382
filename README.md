@@ -4,7 +4,7 @@
 <p> <p align="left">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></p> <img align="right" src="https://komarev.com/ghpvc/?username=atariq12382&label=Profile%20views&color=0e75b6&style=flat" alt="atariq12382" /> </p>
 
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m a Fresh Graduate from **FAST National University of Computer and Emerging Sciences**
 
 - 💬 Ask me about **MERN Stack**
 
