@@ -3,7 +3,7 @@
 🚀 **Software Engineer | React • Next.js • Node.js • TypeScript | SaaS & API Development**
 
 I’m a software engineer passionate about crafting scalable, performant, and user-focused web applications.  
-With over **3 years of experience** working at **Dubizzle Labs**, **Cogent Labs**, and **QBatch**, I specialize in building **SaaS platforms**, **internal CRM systems**, and **API-driven web apps** using modern JavaScript frameworks.
+With over **4 years of experience** working at **Dubizzle Labs**, **Cogent Labs**, and **QBatch**, I specialize in building **SaaS platforms**, **internal CRM systems**, and **API-driven web apps** using modern JavaScript frameworks.
 
 ---
 
