@@ -46,7 +46,7 @@ With over **4 years of experience** working at **Dubizzle Labs**, **Cogent Labs*
 
 ### 💬 **Let’s Connect**
 
-🌐 [Portfolio](https://personal-portfolio-iota-blush.vercel.app)  
+🌐 [Portfolio](https://www.abdullah-tariq.dev/)  
 💼 [LinkedIn](https://www.linkedin.com/in/muhammad-abdullah-tariq-00790221a)  
 💻 [GitHub](https://github.com/atariq12382)  
 📧 **mat57557@gmail.com**
